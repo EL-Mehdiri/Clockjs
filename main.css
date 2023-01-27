@@ -1,0 +1,18 @@
+
+body{
+    background-color: #555;
+    height: 97vh;
+    width: 99%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: system-ui;
+}
+.clock{
+    font-size: 20px;
+    color: #eee;
+}
+span{
+    padding: 20px;
+    background-color: #222;
+}
